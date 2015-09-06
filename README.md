@@ -2,4 +2,4 @@
 高斯模糊渐变的滑动效果
 
 
-效果：http://my.poco.cn/album/admin_album_photo_list.php?sets_id=4027233
+效果：http://image17-c.poco.cn/mypoco/myphoto/20150906/17/17425403720150906170317013_640.jpg?300x475_110
